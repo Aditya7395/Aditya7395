@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aditya7395
+- 👀 I’m interested in Data Science and Data Analytics 
+- 📫 How to reach me ahireaditya07@gmail.com
